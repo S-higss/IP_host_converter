@@ -23,10 +23,3 @@ class ConstantMeta(type):
 class SystemConstants(metaclass=ConstantMeta):
     config = "./lib/config/config.toml"
     encode = "utf-8"
-    windowsize = "1200x800"
-    db_path = "./db"
-    data_path = "./data"
-    link_path = data_path + "/links"
-    hash_path = data_path + "/hash"
-    malware_log_path = data_path + "/malware"
-    zip_path = data_path + "/logs/zip/"
