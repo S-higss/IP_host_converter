@@ -2,3 +2,5 @@
     ip_list = "./data/ip_list.txt"
     host_list = "./data/host_list.txt"
     url_list = "./data/url_list.txt"
+    host_ip_list = "./data/host_ip_list.txt"
+    host_ip_dic = "./data/host_ip_dic.txt"
