@@ -1,6 +1,6 @@
 [data]
-    ip_list = "./data/ip_list.txt"
-    host_list = "./data/host_list.txt"
-    url_list = "./data/url_list.txt"
-    host_ip_list = "./data/host_ip_list.txt"
-    host_ip_dic = "./data/host_ip_dic.txt"
+    ip_list = "../confidence/ip_list.txt"
+    host_list = "../confidence/host_list.txt"
+    url_list = "../confidence/url_list.txt"
+    host_ip_list = "../confidence/host_ip_list.txt"
+    host_ip_dic = "../confidence/host_ip_dic.txt"
