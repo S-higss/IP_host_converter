@@ -21,16 +21,7 @@ make
     172.16.ddd.eee
     ```
 
-- If you want to convert host into URL  
-    Edit ./data/host_list.txt  
-    Ex.
-    ```bash
-    github.com
-    www.kobe-u.ac.jp
-    ...
-    ```
-
-- If you want to convert host into URL  
+- If you want to convert host into URL or ip  
     Edit ./data/host_list.txt  
     Ex.
     ```bash
