@@ -55,4 +55,4 @@ number:
 And input the number you want to do.
 
 ## License
-**IP_host_converter** licensed under [MIT license](https://github.com/S-higss/IP_host_converter/blob/master/LICENSE). Basically you can do whatever you want to with it.
+**IP_host_converter** licensed under [MIT license](https://github.com/S-higss/IP_host_converter/blob/main/LICENSE). Basically you can do whatever you want to with it.
