@@ -9,7 +9,7 @@ from src.url_checker import is_valid_url
 
 config = load_config(SystemConstants.config)
 
-def resolve_ip_to_url():
+def convert_ip_to_url():
     # A text file containing IP addresses one line at a time
     ip_filename = config["data"]["ip_list"]
     # A text file containing hostname one line at a time
@@ -58,4 +58,4 @@ def count_lines(file):
     return total_lines
 
 if __name__ == "__main__":
-    resolve_ip_to_url()
+    convert_ip_to_url()
